@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img width="900" src="https://cdn.rawgit.com/oseManuelPerezSevilla/Awesome-Hexcrawl/7d8012bc/Blackmarsh.jpg" alt="logo"/>
+    <img width="900" src="https://github.com/JoseManuelPerezSevilla/Awesome-Hexcrawl/blob/main/Blackmarsh.jpg?raw=true" alt="Blackmarsh hex map"/>
 </h1>
 <hr/>
 A curated list of hexcrawl resources
