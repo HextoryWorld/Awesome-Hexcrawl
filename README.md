@@ -37,7 +37,8 @@ Design
 #### Sandbox
 
 * [Bat in the Attic](http://batintheattic.blogspot.com/search/label/sandbox%20fantasy) - A decade of articles about sandbox.
-* [My Axioms of Sandbox Campaigns ](https://batintheattic.blogspot.com/2017/08/my-axioms-of-sandbox-campaigns.html)
+* [My Axioms of Sandbox Campaigns](https://batintheattic.blogspot.com/2017/08/my-axioms-of-sandbox-campaigns.html)
+* [Getting There is Half the Fun (The Angry GM)](https://theangrygm.com/getting-there-is-half-the-fun/)
 
 #### Hexcrawl mechanics
 
@@ -49,6 +50,8 @@ Design
 * [Hex crawl hazards](http://thedragonsflagon.blogspot.com/2012/10/hex-crawl-hazards.html) - Wilderness encounter tables that are more than just monsters.
 * [In Praise of the 6 Mile Hex](http://steamtunnel.blogspot.com/2009/12/in-praise-of-6-mile-hex.html) | [The Ergonomic 3 Mile Hex](http://steamtunnel.blogspot.com/2018/09/the-ergonomic-3-mile-hex.html) - Arguments for the advantages of a 6-mile / 3-mile hex scale over rival hex scales.
 * [Hex Flower Game Engines](https://goblinshenchman.wordpress.com/2019/11/17/hex-flower-game-engines-an-overview-and-some-thoughts/)
+* [Overland Travel and Hexcrawls](https://www.paperspencils.com/category/being-a-referee/overland-travel-and-hex-crawls/)
+* [A guide to Hexcrawling, Part 1](https://www.tribality.com/2019/10/15/a-guide-to-hexcrawling-part-1/)
 
 
 Mapping
@@ -64,7 +67,6 @@ Mapping
 * [The Cartographers Guild (Hex map tag)](https://www.cartographersguild.com/tags.php?tag=hex+map) - Forum created by and for map makers and aficionados.
 * [Map tutorials](http://vulpinoid.blogspot.com/p/map-tutorials.html) - A list of the map tutorials so far... Geomorph Series about hex mapping.
 
-
 Hexcrawl settings
 --------
 *Hexcrawl settings and adventures.*
@@ -76,6 +78,8 @@ Hexcrawl settings
 * [The Isles of Mist – A free hexcrawl adventure](https://arsphantasia.wordpress.com/2014/03/09/the-isles-of-mist-a-free-hexcrawl-adventure/) - Island based hex crawl. Begins with a short primer on how to run a hex crawl campaign.
 * [Lots of Crowdsourced Hexcrawls](http://save.vs.totalpartykill.ca/grab-bag/)
 * [Kingmaker Rewrite](http://udan-adan.blogspot.com/2016/03/condensation-in-action-from-600-page-ap.html)
+* [Massive Community Hexcrawl (Coins andScrolls)](https://coinsandscrolls.blogspot.com/2021/01/osr-massive-community-hexcrawl-complete.html) - A post-apocalyptic science fantasy wastelandcrawl build with the contribution of 42 different people.  
+* [Five crowdsourced hexcrawl maps](https://www.reddit.com/r/rpg/comments/4qh1t4/four_huge_crowdsourced_hexcrawl_maps_to_drop_your/)  
 
 
 
@@ -85,6 +89,8 @@ Random/Procedural generation
 
 * Building Dynamic RPG Sandboxes [Part 1](http://hillcantons.blogspot.com/2015/10/building-dynamic-sandboxes-part-1.html) | [Part 2](http://hillcantons.blogspot.com/2015/10/building-dynamic-sandboxes-part-ii.html) - Tricks to provide dynamism to sandboxes
 * [Hexmancer](https://www.martinralya.com/tabletop-rpgs/hexmancer-procedural-hex-generation-system/) - Simple system for procedurally generating hexcrawl terrain and features.
+* [Making maps with noise functions](https://www.redblobgames.com/maps/terrain-from-noise/)
+* [Here Dragons Abound](https://heredragonsabound.blogspot.com/) - Blog where the author explores procedural generation and display of fantasy maps.
 
 
 Tools
