@@ -22,6 +22,7 @@ Other Lists
 * [Hexcrawl, sandbox & randomness](http://amleth.artisiou.com/jdr/hexcrawl-sandbox-randomness) - Exhaustive list of articles and blogs about hexcrawl, sandbox and randomness.
 * [Hexcrawl Resources, (ars phantasia)](https://arsphantasia.wordpress.com/2014/02/20/hexcrawl-resources/) - List of resources helpful when thinking about how to design a hexcrawl.
 * [Hexcrawl - Unsorted Resources](http://tenfootpole.org/forum/index.php?threads/hexcrawl-unsorted-resources.5/) - 
+* [Hexcrawl Resources I Have Known And Loved, Reddit post](https://www.reddit.com/r/osr/comments/rtzam6/hexcrawl_resources_i_have_known_and_loved/) - Another list of resources on Reddit OSR Community.
 
 Design
 --------
