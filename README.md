@@ -99,7 +99,7 @@ Mapping
 
 Random/Procedural generation
 --------
-*Resources about random and procedural generation suited for Hexcrawls.*
+*Resources about random and procedural generation.*
 
 #### Random tables
 
