@@ -3,7 +3,12 @@
     <img width="900" src="https://github.com/JoseManuelPerezSevilla/Awesome-Hexcrawl/blob/main/Blackmarsh.jpg?raw=true" alt="Blackmarsh hex map"/>
 </p>
 <hr/>
-A curated list of free hexcrawl resources
+
+>A curated list of hexcrawl resources
+
+_Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing._
+
+_Please read the [Contributing Guidelines](contributing.md) before contributing._
 
 ## Table of Contents
 - [Other lists](#other-lists)
@@ -18,10 +23,6 @@ A curated list of free hexcrawl resources
     - [Random Tables](#random-tables)
 - [Tools](#tools)
 - [Reddit communities](#reddit-communities)
-
-Contributing
---------
-Contributions welcome! Read the [contribution guidelines](contributing.md) first.
 
 Other Lists
 --------
@@ -82,7 +83,6 @@ How much stuff fits into a 6-mile hex:
 * [Five Crowdsourced hexcrawl maps](https://www.reddit.com/r/rpg/comments/4qh1t4/four_huge_crowdsourced_hexcrawl_maps_to_drop_your/)  
 * [One Hundred Wilderness Hexes](https://blog.d4caltrops.com/2018/03/wilderness-hexes-version-10.html) | [d4 Caltrops Hexes tag](https://blog.d4caltrops.com/search/label/hexes) - From d4 Caltrops blog.
 
-
 Mapping
 --------
 *Webs, articles, graphics, tools related with hex maps.*
@@ -123,10 +123,17 @@ Tools
 * [REVIEW: Old School Encounters Reference](http://grognardia.blogspot.com/2009/05/review-old-school-encounters-reference.html) | [Download PDF](https://img.4plebs.org/boards/tg/image/1367/50/1367508742810.pdf) - Useful not just for designing adventures, but also for world building in general.
 
 Reddit communities
----------------------------------
+------------------
 List of subreddits where hexcrawl topics are welcome.
 * [HexCrawl](https://www.reddit.com/r/HexCrawl/) - A subreddit to discuss HexCrawl-like RPG mechanics.
 * [OSR](https://www.reddit.com/r/osr/) - News and discussion of Old School Renaissance topics.
 * [D&D Maps](https://www.reddit.com/r/dndmaps/) - A catalog for user created maps and links to maps by other artists suitable for use in any D&D campaign, adventure, or encounter.
 * [FantasyMaps](https://www.reddit.com/r/FantasyMaps/) - Sharing and requesting fantasy maps!
 * [MapMaking](https://www.reddit.com/r/mapmaking/) - A community for people that enjoy creating maps- both grounded in history and the grand realms of fantasy.	
+
+Related Awesome lists
+---------------------
+* [Awesome D&D](https://github.com/flamableconcrete/awesome-dnd) - A curated list of awesome D&D Resources.
+* [Awesome Free Tabletop RPGs](https://github.com/Zireael07/awesome-tabletop-rpgs) - A curated list of Awesome free and/or open source tabletop RPGs.
+* [Awesome Tabletop RPG](https://github.com/hack-and-slash/awesome-tabletop-rpg) - Tabletop RPG Tools, materials and projects.
+* [Awesome Fantasy](https://github.com/RichardLitt/awesome-fantasy) - Fantasy literature worth reading.
