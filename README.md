@@ -3,7 +3,7 @@
     <img width="900" src="https://github.com/JoseManuelPerezSevilla/Awesome-Hexcrawl/blob/main/Blackmarsh.jpg?raw=true" alt="Blackmarsh hex map"/>
 </p>
 <hr/>
-A curated list of hexcrawl resources
+A curated list of free hexcrawl resources
 
 ## Table of Contents
 - [Other lists](#other-lists)
