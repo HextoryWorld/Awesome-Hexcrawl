@@ -23,6 +23,7 @@ _Please read the [Contributing Guidelines](contributing.md) before contributing.
     - [Random Tables](#random-tables)
 - [Tools](#tools)
 - [Reddit communities](#reddit-communities)
+- [Related Awesome lists](#related-awesome-lists)
 
 Other Lists
 --------
