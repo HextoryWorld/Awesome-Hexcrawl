@@ -5,10 +5,6 @@
 <hr/>
 A curated list of hexcrawl resources
 
-Contributing
---------
-Contributions welcome! Read the [contribution guidelines](contributing.md) first.
-
 ## Table of Contents
 - [Other lists](#other-lists)
 - [Design](#design)
@@ -22,6 +18,10 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
     - [Random Tables](#random-tables)
 - [Tools](#tools)
 - [Reddit communities](#reddit-communities)
+
+Contributing
+--------
+Contributions welcome! Read the [contribution guidelines](contributing.md) first.
 
 Other Lists
 --------
