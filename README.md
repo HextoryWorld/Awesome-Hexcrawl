@@ -86,7 +86,7 @@ How much stuff fits into a 6-mile hex:
 
 Mapping
 --------
-*Webs, articles, graphics, tools related with hex maps.*
+*Webs and articles about hex mapping.*
 
 * [More Mapping with Hexes](https://batintheattic.blogspot.com/2013/12/more-mapping-with-hexes.html) - How to manage a hex map when making a hexcrawl setting.
 * Welsh Piper’s [May the Hex Be With You](https://welshpiper.com/may-the-hex-be-with-you/)
