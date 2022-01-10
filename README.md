@@ -126,3 +126,7 @@ List of subreddits where hexcrawl topics are welcome.
 * [D&D Maps](https://www.reddit.com/r/dndmaps/) - A catalog for user created maps and links to maps by other artists suitable for use in any D&D campaign, adventure, or encounter.
 * [FantasyMaps](https://www.reddit.com/r/FantasyMaps/) - Sharing and requesting fantasy maps!
 * [MapMaking](https://www.reddit.com/r/mapmaking/) - A community for people that enjoy creating maps- both grounded in history and the grand realms of fantasy.	
+
+Contributing
+--------
+Your contributions are always welcome!
