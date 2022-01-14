@@ -43,7 +43,7 @@ Design
 * Welsh Piper’s hexcrawl guide [Part 1](https://welshpiper.com/hex-based-campaign-design-part-1/) | [Part 2](https://welshpiper.com/hex-based-campaign-design-part-2/) - Hex-based Campaign Design.
 * Welsh Piper’s [Low-fantasy Populations](https://welshpiper.com/populations-for-low-fantasy-settings/) - Realistic populations in low-fantasy settings. Also has an online generator.
 * [How to make a Fantasy Sandbox](https://batintheattic.blogspot.com/2009/08/how-to-make-fantasy-sandbox.html) | [PDF](http://www.ibiblio.org/mscorbit/sandbox/Make%20a%20Fantasy%20Sandbox_111005.pdf) - Detailed guide of 28 posts about creating a fantasy sandbox.
-* [The Gygax 75 Challenge](https://rayotus.itch.io/gygax75) | - [Background and challenges list](https://diyanddragons.blogspot.com/2020/08/gygax-75.html) - Article about how to get your own D&D campaign world started.
+* [The Gygax 75 Challenge](https://rayotus.itch.io/gygax75) | [Background and challenges list](https://diyanddragons.blogspot.com/2020/08/gygax-75.html) - Article about how to get your own D&D campaign world started.
 
 
 #### Sandbox
