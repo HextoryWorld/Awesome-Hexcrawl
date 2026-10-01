@@ -123,6 +123,7 @@ Tools
 * [Welsh Piper’s hex templates](https://welshpiper.com/hex-templates/) - Hex templates in different scales: atlas, regional, local ...
 * [Autarch hex templates](https://www3.autarch.co/?page_id=243) - Hex region templates from the Adventurer Conqueror King System.
 * [REVIEW: Old School Encounters Reference](http://grognardia.blogspot.com/2009/05/review-old-school-encounters-reference.html) | [Download PDF](https://img.4plebs.org/boards/tg/image/1367/50/1367508742810.pdf) - Useful not just for designing adventures, but also for world building in general.
+* [WyrmHex](https://github.com/alepersichetti/WyrmHex) Terminal-based hexcrawl map generator in ASCII style, like Dwarf Fortress or NetHack. Compatible with any OSR tabletop RPG.
 
 Reddit communities
 ------------------
